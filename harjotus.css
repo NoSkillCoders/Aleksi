@@ -46,6 +46,12 @@ ul{
 .footer{
     background-color: rgb(0, 39, 58);
     padding: 70px 0;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: auto;
 }
 .footer-col{
     width: 50%;
